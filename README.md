@@ -1,7 +1,7 @@
 # angular2-snippets-atom package
 Sumant Chhunchha
 mr.chhunchha@gmail.com
-[@_Sumant_]
+[@_Sumant_](https://twitter.com/_Sumant_)
 
 ### Angular 2 Snippets for TypeScript (.ts)
 ##############################################
