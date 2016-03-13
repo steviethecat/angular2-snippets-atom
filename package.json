@@ -1,15 +1,11 @@
 {
   "name": "angular2-snippets-atom",
-  "main": "./lib/angular2-snippets-atom",
   "version": "0.3.0",
   "description": "Angular 2 - Typescript snippets for Atom - following John Papa tutorial",
   "keywords": [
     "Angular2",
     "TypeScript"
   ],
-  "activationCommands": {
-    "atom-workspace": "angular2-snippets-atom:toggle"
-  },
   "repository": "https://github.com/chhunchha/angular2-snippets-atom.git",
   "license": "MIT",
   "engines": {
