@@ -7,7 +7,8 @@ mr.chhunchha@gmail.com
 ##############################################
 
 As this is for Angular and TypeScript, I assume that you are working on Angular 2 so prefix is just 'ng'.
-Have used styling from John Papa's course and material - Thanks @John_Papa.
+
+Have used styling from John Papa's course and material - Thanks []@John_Papa](https://twitter.com/John_Papa).
 
 * ngComponent - Angular 2 New Component
 
