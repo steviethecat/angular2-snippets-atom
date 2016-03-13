@@ -10,17 +10,17 @@ As this is for Angular and TypeScript, I assume that you are working on Angular 
 
 Have used styling from John Papa's course and material - Thanks [@John_Papa](https://twitter.com/John_Papa).
 
-* ngComponent - Angular 2 New Component
+* ngComponent - Angular 2 new Component
 
-* ngService - Angular 2 New Service,
+* ngService - Angular 2 new Service,
 
-* ngPipe - Angular 2 New Pipe
+* ngPipe - Angular 2 new Pipe
 
 * ngImport - Import Statement
 
-* ngImportComponent - Angular 2 Import statement for Component from angular core
+* ngImportComponent - Angular 2 import statement for Component from angular core
 
-* ngImportRouter - Angular 2 Router directives
+* ngImportRouter - Angular 2 import Router
 
 * ngImportHttp - Angular 2 Http
 
