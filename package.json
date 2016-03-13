@@ -1,7 +1,7 @@
 {
   "name": "angular2-snippets-atom",
   "main": "./lib/angular2-snippets-atom",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Angular 2 - Typescript snippets for Atom - following John Papa tutorial",
   "keywords": [],
   "activationCommands": {
