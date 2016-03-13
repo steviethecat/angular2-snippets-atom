@@ -5,7 +5,7 @@
   "description": "Angular 2 - Typescript snippets for Atom - following John Papa tutorial",
   "keywords": [
     "Angular2",
-    "TypeScript"'
+    "TypeScript"
   ],
   "activationCommands": {
     "atom-workspace": "angular2-snippets-atom:toggle"
