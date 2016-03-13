@@ -4,8 +4,8 @@
   "version": "0.2.0",
   "description": "Angular 2 - Typescript snippets for Atom - following John Papa tutorial",
   "keywords": [
-    Angular2,
-    TypeScript
+    "Angular2",
+    "TypeScript"'
   ],
   "activationCommands": {
     "atom-workspace": "angular2-snippets-atom:toggle"
