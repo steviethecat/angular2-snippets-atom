@@ -1,4 +1,5 @@
-# angular2-snippets-atom package
+# angular2-snippets-atom package - [Link] (https://atom.io/packages/angular2-snippets-atom)
+
 Sumant Chhunchha
 mr.chhunchha@gmail.com
 [@_Sumant_](https://twitter.com/_Sumant_)
