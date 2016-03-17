@@ -4,7 +4,7 @@ Sumant Chhunchha
 mr.chhunchha@gmail.com
 [@_Sumant_](https://twitter.com/_Sumant_)
 
-Feel free to drop an email or create a bug if you see something cab be added or improved. Thank you for helping.
+Feel free to drop an email or create a bug if you see something can be added or improved. Thank you for helping.
 
 ### Angular 2 Snippets for TypeScript (.ts)
 ##############################################
