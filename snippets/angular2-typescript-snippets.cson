@@ -9,7 +9,7 @@
   'Angular 2 Component':
     'prefix': 'ngComponent'
     'body': """
-    import { Component, EventEmitter, Input, Output, OnInit, OnDestroy } from 'angular2/core';
+    import { Component, EventEmitter, Input, Output, OnInit, OnDestroy } from '@angular/core';
 
     @Component({
         selector: '${1:selector}',
@@ -39,7 +39,7 @@
   'Angular 2 Service':
     'prefix': 'ngService'
     'body':"""
-    import { Injectable } from 'angular2/core';
+    import { Injectable } from '@angular/core';
 
     export interface ${1:IntefaceName} {
       ${2:name}: ${3:type};
@@ -57,7 +57,7 @@
   'Angular 2 Pipe':
     'prefix': 'ngPipe'
     'body':"""
-    import { Pipe, PipeTransform } from 'angular2/core';
+    import { Pipe, PipeTransform } from '@angular/core';
 
     @Pipe({ name: '${1:pipeName}' })
     export class ${1:PipeName}Pipe implements PipeTransform {
@@ -78,19 +78,19 @@
   'Angular 2 Import Component':
     'prefix': 'ngImportComponent'
     'body':"""
-    import { Component, OnInit, OnDestroy } from 'angular2/core';
+    import { Component, OnInit, OnDestroy } from '@angular/core';
     """
 ################################################################################
   'Angular 2 Import Router':
     'prefix': 'ngImportRouter'
     'body':"""
-    import { ROUTER_DIRECTIVES } from 'angular2/router';
+    import { ROUTER_DIRECTIVES } from '@angular/router';
     """
 ################################################################################
   'Angular 2 Import Http':
     'prefix': 'ngImportHttp'
     'body':"""
-    import { Http, Response } from 'angular2/http';
+    import { Http, Response } from '@angular/http';
     """
 ################################################################################
   'Angular 2 Import Rx':
