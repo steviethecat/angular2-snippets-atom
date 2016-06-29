@@ -41,7 +41,7 @@
     'body':"""
     import { Injectable } from '@angular/core';
 
-    export interface ${1:IntefaceName} {
+    export interface ${1:InterfaceName} {
       ${2:name}: ${3:type};
     }
 
